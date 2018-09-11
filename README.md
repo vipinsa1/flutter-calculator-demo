@@ -1,6 +1,6 @@
-# calculatorapp
+# Flutter calculator demo app
 
-A new Flutter project.
+A Flutter calculator demo project.
 
 ## Getting Started
 
